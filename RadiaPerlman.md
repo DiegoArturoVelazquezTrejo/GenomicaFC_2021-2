@@ -3,6 +3,10 @@
 ## Autor: Diego Arturo Velázquez Trejo
 ## Número de cuenta: 317227257
 
+
+![alt text](original.jpg)
+
+
 Es una matemática egresada del Massachusetts Institute of Technology **(MIT)**. Sus padres fueron ingenieros que trabajaron para el gobierno. Su madre se dedicaba a la programación, por lo que desde pequeña, estuvo en un entorno tecnológico y científico.
 
 
@@ -14,7 +18,7 @@ Radia Perlman es autora de libros sobre redes y coautora de varios libros de seg
 Aportaciones:
 1. Tiene más de 100 patentes.
 2. Algoritmo de Spanning Tree.
-3. Protocolos de red. 
+3. Protocolos de red.
 
 Referencias:
-[1.](https://mujeresconciencia.com/2020/12/31/las-redes-que-atraparon-a-radia-perlman)
+[1. Biografía Rdia Perlman](https://mujeresconciencia.com/2020/12/31/las-redes-que-atraparon-a-radia-perlman)
